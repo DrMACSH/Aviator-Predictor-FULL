@@ -1,4 +1,10 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+/* its not working and please specify the exact seed. 
+   none of client, server or player seeds are working
+   it still generates a multiplier if there is no seed
+   please fix thsnks
+*/
+
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
